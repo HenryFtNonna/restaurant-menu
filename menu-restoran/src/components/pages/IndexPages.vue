@@ -2,11 +2,11 @@
   <div class="min-h-screen bg-white p-4 font-Poppins">
     <div class="bg-red-200 max-w-2xl mx-auto min-h-screen p-4 border-2 border-black shadow-[2px_2px_0_0_rgba(0,0,0,1)]">
       <!-- header/top -->
-      <div class="mb-4">
-        <div class="bg-amber-300 min-h-[80px] rounded-lg shadow-md p-2">
-          <div class="grid grid-cols-3 gap-1 min-h-[80px] bg-amber-700 py-2">
-            <div class="col-span-2 bg-amber-100 p-2">haha</div>
-            <div class="col-span-1 bg-amber-900 text-white p-2">wjwjw</div>
+      <div class="mb-4 ">
+        <div class="bg-amber-300 min-h-20 rounded-lg shadow-md p-2">
+          <div class="grid grid-cols-1 gap-1 min-h-20 bg-amber-700 py-2 px-2">
+            <div class="col-span-1 bg-amber-100 p-2 justify-center text-center items-center flex font-bold text-[30px]"> Henri Resto</div>
+            <!-- <div class="col-span-1 bg-amber-900 text-white p-2 justify-center text-center items-center flex"></div> -->
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
         <div class="md:col-span-4 col-span-1 bg-gray-100 p-3 rounded-md flex items-center justify-center min-h-[100px]">
           <!-- contoh image, ganti src nanti -->
           <div class="w-full h-40 md:h-82 rounded-md overflow-hidden shadow-sm">
-            <img src="https://picsum.photos/seed/food/800/600" alt="food" class="w-full h-full object-cover" />
+            <img src="https://images.pexels.com/photos/20488283/pexels-photo-20488283.jpeg" alt="food" class="w-full h-full object-cover" />
           </div>
         </div>
 
@@ -69,7 +69,7 @@
         <!-- 4. Drink image (right smaller: md:col-span-4) -->
         <div class="md:col-span-4 col-span-1 bg-gray-100 p-3 rounded-md flex items-center justify-center">
           <div class="w-full h-40 md:h-82 rounded-md overflow-hidden shadow-sm">
-            <img src="https://images.pexels.com/photos/302904/pexels-photo-302904.jpeg" alt="drink" class="h-full w-full object-cover" />
+            <img src="https://images.pexels.com/photos/7270275/pexels-photo-7270275.jpeg" alt="drink" class="h-full w-full object-cover" />
           </div>
         </div>
       </div>
