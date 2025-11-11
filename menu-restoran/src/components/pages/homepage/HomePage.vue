@@ -45,7 +45,7 @@
         </div>
 
         <!-- 3. Drink -->
-        <div class="md:col-span-6 col-span-1 bg-[#d8dcc1] p-2 rounded-sm drop-shadow-sm min-h-[300px] font-footer">
+        <div class="md:col-span-6 col-span-1 bg-[#d8dcc1] p-2 rounded-sm drop-shadow-sm min-h-[300px] text-[#3a3b38] font-footer">
           <div class="bg-border p-2 rounded px-4 py-4">
             <div class="font-bold text-center mb-2 text-[20px]">Drink</div>
             
