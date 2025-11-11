@@ -9,9 +9,9 @@
         </div>
 
         <!-- Table -->
-        <table v-else class="table table-zebra bg-[#f3f3f3]">
+        <table v-else class="table bg-[#f3f3f3]">
             <thead>
-                <tr>
+                <tr class="text-[#3a3b38]">
                     <th>No</th>
                     <th class="min-w-50">Food Name</th>
                     <th class="min-w-32">Price</th>
@@ -44,7 +44,7 @@
                             <button 
                                 v-if="editingId !== food.id"
                                 @click="startEdit(food)"
-                                class="btn btn-sm bg-border hover:bg-border2 "
+                                class="btn btn-sm bg-border hover:bg-border2 border-0"
                             >
                                 Edit
                             </button>
